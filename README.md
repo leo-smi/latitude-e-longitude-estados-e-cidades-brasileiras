@@ -16,5 +16,5 @@ Este repositório fornece arquivos CSV com informações sobre estados e cidades
   * **longitude**: valor da longitude;
   * **capital**: valor 1 se for capital;	
   * **codigo_uf**: código da Unidade Federativa;
-  * **uf**:	sigla da Unidade Federativa;
+  * **uf**:	sigla da Unidade Federativa.
 
