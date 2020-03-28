@@ -1,6 +1,6 @@
 # Latitude e longitude dos estados e cidades brasileiras
 
-Este repositório fornece arquivos CSV com informações sobre estados e cidades brasileiras, são elas:
+Este repositório fornece arquivos CSV com informações sobre estados e cidades brasileiras (fonte: https://github.com/kelvins/Municipios-Brasileiros), são elas:
 
 - **Estados**:
   * **codigo_uf**: código da Unidade Federativa;
